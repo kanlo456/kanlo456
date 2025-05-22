@@ -7,7 +7,7 @@ Software developer
 Hello! I’m Ken Lo, a passionate coder with a deep love for technology and continuous learning. From a young age, I was fascinated by how things work behind the scenes, which led me to explore the world of programming. I thrive on solving complex problems and enjoy the challenge of bringing ideas to life through code. Whether I’m building web applications or experimenting with new programming languages, I find joy in the process and the endless possibilities that coding offers. Self-motivation is at the core of my journey. I believe that learning never stops, and I constantly seek out new knowledge and skills to enhance my expertise. Whether through online courses, coding boot camps, or personal projects, I always push myself to grow and improve. I’m excited to connect with fellow enthusiasts and collaborate on innovative projects. Let’s create something amazing together!
 
 * 🌍  I'm based in Hong Kong
-* 🖥️  See my portfolio at [Personal Websit ~ Ken Lo](http://kanlo456.github.io/kanlo.github.io/)
+* 🖥️  See my portfolio at [Personal Websit ~ Ken Lo](https://kanlo456.github.io/KenProfilo/)
 * ✉️  You can contact me at [kanson456@gmail.com](mailto:kanson456@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Project
