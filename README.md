@@ -22,7 +22,7 @@ Hello! I’m Ken Lo, a passionate coder with a deep love for technology and cont
 ### Certifications
 
 <a href="https://www.credly.com/badges/95d66ba8-1a77-45b1-a03b-fa2159e42a53/public_url" target="_blank">
-<img alt="aws-certified-ai-practitioner" src="https://www.credly.com/badges/95d66ba8-1a77-45b1-a03b-fa2159e42a53/public_url" width="100" height="100" />
+<img width="150" height="150" alt="aws-certified-ai-practitioner (1)" src="https://github.com/user-attachments/assets/8c14e264-acda-4ab5-8401-3d30951bbafb" />
 </a>
 
 ### Socials
